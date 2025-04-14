@@ -1,0 +1,2 @@
+pip install transformers torch torchvision pillow pdf2image
+brew install poppler  # Required for PDF support on macOS
